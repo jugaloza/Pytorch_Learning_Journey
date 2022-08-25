@@ -8,4 +8,4 @@ Following this one day tutorial video recorded by Daniel Bourke.
 
 https://www.youtube.com/watch?v=Z_ikDlimN6A&t=12820s
 
-Repository is yet to be updated with latest journey :)
+Repository is yet to be updated with latest journey in learning Pytorch
