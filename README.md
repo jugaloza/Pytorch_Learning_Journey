@@ -7,3 +7,5 @@ This repo contains my journey of learning Pytorch framework.
 Following this one day tutorial video recorded by Daniel Bourke. 
 
 https://www.youtube.com/watch?v=Z_ikDlimN6A&t=12820s
+
+Repository is yet to be updated with latest journey :)
